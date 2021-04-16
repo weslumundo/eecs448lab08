@@ -1,0 +1,87 @@
+body{
+    background-image: url("assets/watergif.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #9AB9D6;
+}
+
+.pfp{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 15%;
+    border: 10px solid #A9672D;
+    border-radius: 1000px;
+    float: left;
+}
+
+.outer{
+    border: 10px solid #0279BB;
+    border-radius: 30px;
+    margin-top: 3%;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: #D2CBB8;
+}
+
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: darkgoldenrod;
+    font-size: 80pt; 
+    margin-left: 25%; 
+    
+}
+
+p{
+    margin-left: 4%;
+    margin-right: 1%;
+    font-size: 25pt;
+    font-family:sans-serif;
+}
+
+h2{
+    padding-top:0.5%;
+    margin:auto;
+    text-align: center;
+    font-size: 50pt;
+    padding-bottom: 0%;
+}
+
+.collage{
+    padding: 0;
+    margin-left: 2.5%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    height: 30%;
+    width: 28%;
+    float:left;
+    border-style: solid;
+    border-color: darkolivegreen;
+    border-radius: 3px;
+    border-width: 10px;
+}
+
+.collage:hover{
+    border-color:seagreen;
+}
+
+#last{
+    margin-right: 0%;
+    float:none;
+    font-size: 30pt;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.video{
+    width: 50%;
+    height: 50%;
+    padding-left: 25%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
